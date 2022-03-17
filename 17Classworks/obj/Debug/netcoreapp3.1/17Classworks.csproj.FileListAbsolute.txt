@@ -1,0 +1,13 @@
+/Users/sunaljabili/Desktop/17Classworks/17Classworks/bin/Debug/netcoreapp3.1/17Classworks.deps.json
+/Users/sunaljabili/Desktop/17Classworks/17Classworks/bin/Debug/netcoreapp3.1/17Classworks.runtimeconfig.json
+/Users/sunaljabili/Desktop/17Classworks/17Classworks/bin/Debug/netcoreapp3.1/17Classworks.runtimeconfig.dev.json
+/Users/sunaljabili/Desktop/17Classworks/17Classworks/bin/Debug/netcoreapp3.1/17Classworks.dll
+/Users/sunaljabili/Desktop/17Classworks/17Classworks/bin/Debug/netcoreapp3.1/17Classworks.pdb
+/Users/sunaljabili/Desktop/17Classworks/17Classworks/obj/Debug/netcoreapp3.1/17Classworks.csproj.AssemblyReference.cache
+/Users/sunaljabili/Desktop/17Classworks/17Classworks/obj/Debug/netcoreapp3.1/17Classworks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sunaljabili/Desktop/17Classworks/17Classworks/obj/Debug/netcoreapp3.1/17Classworks.AssemblyInfoInputs.cache
+/Users/sunaljabili/Desktop/17Classworks/17Classworks/obj/Debug/netcoreapp3.1/17Classworks.AssemblyInfo.cs
+/Users/sunaljabili/Desktop/17Classworks/17Classworks/obj/Debug/netcoreapp3.1/17Classworks.csproj.CoreCompileInputs.cache
+/Users/sunaljabili/Desktop/17Classworks/17Classworks/obj/Debug/netcoreapp3.1/17Classworks.dll
+/Users/sunaljabili/Desktop/17Classworks/17Classworks/obj/Debug/netcoreapp3.1/17Classworks.pdb
+/Users/sunaljabili/Desktop/17Classworks/17Classworks/obj/Debug/netcoreapp3.1/17Classworks.genruntimeconfig.cache
